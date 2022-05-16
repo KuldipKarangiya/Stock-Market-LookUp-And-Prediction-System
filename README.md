@@ -32,29 +32,44 @@
      - user get the total value of profit or loss from invested amount
 ## System Running Screenshot
 
-![1](https://user-images.githubusercontent.com/70789792/168628367-60f152f9-ebba-466a-8aef-b8dfb57c1920.jpg)
+![image](https://user-images.githubusercontent.com/70789792/168631170-c49204eb-b05b-4785-97da-ea9e916b6460.png)
 
-![2](https://user-images.githubusercontent.com/70789792/168628956-839155a4-437b-4278-9c63-e409c28a51de.jpg)
+![image](https://user-images.githubusercontent.com/70789792/168631285-f451579c-1968-4f70-a6f0-7aba8a3ffd86.png)
 
-![3](https://user-images.githubusercontent.com/70789792/168628969-aff8d8b1-a00d-4e72-96cd-9df696009a1f.jpg)
+![image](https://user-images.githubusercontent.com/70789792/168631529-e0d06e25-b295-4b87-9047-e846372a0a8f.png)
 
-![4](https://user-images.githubusercontent.com/70789792/168628973-126fe744-8f1a-482c-be9a-97084252e837.jpg)
+![image](https://user-images.githubusercontent.com/70789792/168631661-55988e5e-b41f-44a3-b587-663351ea7ca0.png)
 
-![5](https://user-images.githubusercontent.com/70789792/168628980-b3a31fcb-d5d7-4a1b-8e0d-8d5f6367d2f9.jpg)
-![6](https://user-images.githubusercontent.com/70789792/168628985-1529bbbf-374f-4a6e-8c15-ee399a6ca92e.jpg)
-![7](https://user-images.githubusercontent.com/70789792/168628988-e2962a68-c279-4d13-a542-e95f94ea2efb.jpg)
-![8](https://user-images.githubusercontent.com/70789792/168628993-b25640ca-f76a-4972-9a7d-e411fcdcb1fb.jpg)
-![9](https://user-images.githubusercontent.com/70789792/168628998-1d2c3e92-96be-4f84-93f5-f87e4ecd4144.jpg)
-![10](https://user-images.githubusercontent.com/70789792/168629002-f9d295a4-cf0f-484d-a5b0-473599526cbd.jpg)
-![11](https://user-images.githubusercontent.com/70789792/168629008-928a2fb5-8b7a-46b9-8701-cbf98e7dc37b.jpg)
-![12](https://user-images.githubusercontent.com/70789792/168629012-11b97e8c-265d-49af-8381-ee74f5dd797d.jpg)
-![13](https://user-images.githubusercontent.com/70789792/168629016-17caaeb8-c278-4cd8-a601-6e28d8eb1280.jpg)
-![14](https://user-images.githubusercontent.com/70789792/168629021-527ed42d-f24c-4029-a6ce-396358d476e4.jpg)
-![15](https://user-images.githubusercontent.com/70789792/168629027-f9e2301c-0d58-4209-a657-e4e7db4d783a.jpg)
-![16](https://user-images.githubusercontent.com/70789792/168629030-447c9d1a-4de1-4d2a-b364-61175c7f78a5.jpg)
-![17](https://user-images.githubusercontent.com/70789792/168629038-e7df24b9-9995-4b0d-b2b0-2a7ef6457e73.jpg)
-![18](https://user-images.githubusercontent.com/70789792/168629040-b05d5979-6ac1-4e0b-b43b-ac17a6bf2f32.jpg)
-![ipo](https://user-images.githubusercontent.com/70789792/168629043-f379d515-1bd1-444e-abe4-92942e128fda.jpg)
+![image](https://user-images.githubusercontent.com/70789792/168631747-bf8c85b0-d1d9-4943-8936-48576f95d716.png)
+
+![6](https://user-images.githubusercontent.com/70789792/168632364-fa04bbec-af6a-4819-8a6e-48f86f03ba1f.jpg)
+
+![7](https://user-images.githubusercontent.com/70789792/168632426-7f027772-9588-488b-ac66-8927e1a816e2.jpg)
+
+![8](https://user-images.githubusercontent.com/70789792/168632461-f09b4457-b7e4-42dc-a314-babf2b664523.jpg)
+
+![9](https://user-images.githubusercontent.com/70789792/168632476-fdd69fcb-1dd3-49cf-895f-e1ad28a60eaf.jpg)
+
+![10](https://user-images.githubusercontent.com/70789792/168632492-0eaa3dc7-4f47-458f-8883-ee7aaa496bb0.jpg)
+
+![11](https://user-images.githubusercontent.com/70789792/168632509-6d38a28a-fd44-48a5-b348-369564b2153e.jpg)
+
+![12](https://user-images.githubusercontent.com/70789792/168632539-386b28d9-bf5c-4bcb-a066-15ab5301178f.jpg)
+
+![13](https://user-images.githubusercontent.com/70789792/168633209-eaa73220-fe09-4c0f-bff8-3fc90d7d116a.jpg)
+
+![14](https://user-images.githubusercontent.com/70789792/168632579-574450b4-0263-48c6-bc00-f6462b914722.jpg)
+
+![15](https://user-images.githubusercontent.com/70789792/168632988-13cb1f8a-ce5f-4bf6-bb04-5a1a525ab59a.jpg)
+
+![16](https://user-images.githubusercontent.com/70789792/168633002-8427dec5-3cec-478c-9cfb-4f190ef43278.jpg)
+
+![17](https://user-images.githubusercontent.com/70789792/168633056-bf17421a-4527-4f59-9382-61484b7d0f82.jpg)
+
+![18](https://user-images.githubusercontent.com/70789792/168633063-24337c91-7d3f-4a8f-9a1f-bcb18f6f1bbb.jpg)
+
+![ipo](https://user-images.githubusercontent.com/70789792/168633105-840c2608-ec0b-4ac0-aa77-9b4664f5929c.jpg)
+
 
 
 
