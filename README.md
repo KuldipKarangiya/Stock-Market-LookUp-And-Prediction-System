@@ -18,6 +18,7 @@
   * [Angular CLI](https://cli.angular.io) : frontend scaffolding
   * [Material UI](https://material-ui.com/) : layout and styles
   * [Alpaca](https://alpaca.markets/) : api for stock data
+  * [Highchart](https://www.highcharts.com/) : chart for stock data
 
 ## Functionality
   - Register, Login / Logout, Contact Us
