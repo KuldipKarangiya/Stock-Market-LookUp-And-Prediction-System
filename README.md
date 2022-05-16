@@ -30,4 +30,6 @@
   - Stock Related Prediction
   - Portfolio
      - user get the total value of profit or loss from invested amount
+## System Running Screenshot
 
+![1](https://user-images.githubusercontent.com/70789792/168628367-60f152f9-ebba-466a-8aef-b8dfb57c1920.jpg)
