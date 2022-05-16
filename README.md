@@ -7,7 +7,7 @@
 ## StockWatch - Stock Data Viewing Tool
  - This is software which provides data of stock in form of chart. This also provides live price of data. This software uses api from some website to take data. It also contain link of compnay's website.
  
-* This project uses the [MERN stack] and Machine Learning(https://wikitia.com/index.php?title=MERN_(solution_stack)&mobileaction=toggle_view_desktop) :
+* This project uses the [MERN stack] and Machine Learning :
   * [**M**ongoose.js](http://www.mongoosejs.com) ([MongoDB](https://www.mongodb.com)) : database
   * [**E**xpress.js](http://expressjs.com) : backend framework
   * [**R**eact](https://reactjs.org/) : frontend framework
